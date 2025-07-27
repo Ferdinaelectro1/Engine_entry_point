@@ -37,7 +37,8 @@ class TheApp : public Engine
       {
         for(int i = 0;  i < 15; i++)
         {
-            std::cout << "O_A" << std::endl;        
+            std::cout << "O_A" << std::endl;       
+            std::cout << "A_O" << std::endl; 
         }
       };
 };
